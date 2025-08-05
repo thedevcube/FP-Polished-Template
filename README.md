@@ -2,6 +2,9 @@
 This is a template for first person games made in godot, originally i'd use it on a game but i no longer wanted to develop it so i decided
 to leave this public for everyone to see.
 
+<img width="1440" height="900" alt="imagem" src="https://github.com/user-attachments/assets/50e6388e-c135-4e36-a7e3-1b0246ebc3b5" />
+
+
 # Content:
 - Smooth WASD movement
 - Smooth camera movement
@@ -19,3 +22,7 @@ I am NOT an GDscript expert and the code may not be optimized, feel free to chan
 
 ## Anyway
 Have fun :)
+
+
+https://github.com/user-attachments/assets/01045eb5-c73c-4253-9867-716c3161f356
+
